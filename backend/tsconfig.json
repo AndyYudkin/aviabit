@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2018",
+    "sourceMap": true,
+    "types": [
+      "node"
+    ],
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "../node_modules"
+  ]
+}

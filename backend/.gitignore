@@ -1,0 +1,7 @@
+/.idea
+/*/*.js
+/*/*.js.map
+*.js
+*.js.map
+/node_modules
+
