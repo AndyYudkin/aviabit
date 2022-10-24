@@ -1,0 +1,156 @@
+[
+  {
+    "dateFlight": "2017-06-21T19:00:00.000Z",
+    "flight": "AB-3377",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 1,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2017-06-22T19:00:00.000Z",
+    "flight": "AB-3177",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2017-07-21T19:00:00.000Z",
+    "flight": "AB-3378",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2017-08-21T19:00:00.000Z",
+    "flight": "AB-3379",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2018-06-21T19:00:00.000Z",
+    "flight": "AB-3387",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2018-07-21T19:00:00.000Z",
+    "flight": "AB-3388",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  },
+  {
+    "dateFlight": "2018-08-21T19:00:00.000Z",
+    "flight": "AB-3389",
+    "plnType": "B-757-200",
+    "pln": "XXXAK",
+    "timeFlight": 26100,
+    "timeBlock": 27000,
+    "timeNight": 16200,
+    "timeBiologicalNight": 28200,
+    "timeWork": 37800,
+    "type": 0,
+    "takeoff": {
+      "name": "Томск(Богашево)",
+      "lat": 56.38333333,
+      "long": 85.2
+    },
+    "landing": {
+      "name": "Нячанг(Камрань Интл)",
+      "lat": 11.99805555,
+      "long": 109.21944444
+    }
+  }
+]
