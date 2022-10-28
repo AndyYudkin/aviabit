@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-backend": "node src/server.js"
+    "start": "tsc && node src/server.js"
   },
   "repository": {
     "type": "git",

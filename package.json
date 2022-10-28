@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "scripts": {
+    "install": "cd backend/ && npm i && cd ../frontend && npm i",
+    "start": "npm run backend & npm run frontend",
+    "backend": "cd backend/ && npm start ",
+    "frontend": "cd frontend/ && npm start"
+  }
+}
